@@ -1,0 +1,1 @@
+It took about a half an hour to get the ssh key thing to work.
